@@ -1,1 +1,1 @@
-echo "OM namah Shivayyyyyyyyy."
+echo "OM namah Shivayyyyyyyyyy."
