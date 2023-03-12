@@ -1,1 +1,1 @@
-echo "Jai shree Krishna and Jai Shree Ram... Om Bagheswarey namah:"
+echo "OM namah shivay."
